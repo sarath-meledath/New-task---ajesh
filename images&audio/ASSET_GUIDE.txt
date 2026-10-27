@@ -1,0 +1,24 @@
+HTML MULTIMEDIA ASSIGNMENT ASSETS
+
+Task 1 - Personal Music Player:
+- perfect.mp3
+
+Task 2 - Video Trailer Page:
+- trailer.mp4
+- poster.jpg
+
+Task 3 - Accessibility & Broken Links Test:
+- nature.jpg
+- flower.jpg
+- Do NOT add missing_photo.jpg: that filename is intentionally absent so the broken-image test works.
+
+Task 4 - Multi-Format Audio Compatibility:
+- song.mp3
+- song.ogg
+
+Task 5 - Mini Portfolio Challenge:
+- profile.jpg
+- introduction.mp3 (or introduction.ogg)
+- project.mp4
+
+These are original demo assets made for HTML practice. The audio is a short synthesized melody, and the videos are sample animations, not commercial songs or movie trailers. Put the assets beside the relevant HTML files, or update your src/poster paths.
