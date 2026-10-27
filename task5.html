@@ -3,20 +3,25 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Accessibility and Broken Links Test</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accessibility Test</title>
 </head>
 <body>
 
-    <h1>My Favorite Images</h1>
+    <h1>Image Accessibility Test</h1>
 
-    <h2>Image 1</h2>
-    <img src="images&audio/nature.jpg" alt="Beautiful green forest with tall trees" width="300">
+    <h2>Anime Landscape</h2>
+    <img src="images&audio/nature.jpg" alt="Anime character sitting beside a beautiful mountain lake" width="300">
 
-    <h2>Image 2</h2>
-    <img src="imaages&audio/missing_photo.jpg" alt="A photograph of a beautiful mountain" width="300">
+    <h2>Anime Girl</h2>
+    <img src="images&audio/flower.jpg" alt="Anime girl surrounded by flowers" width="300">
 
-    <h3>Image 3</h3>
-    <img src="images&audio/flower.jpg" alt="A red flower blooming in a garden" width="300">
+    <h2>Broken Image Test</h2>
+    <img src="missing_photo.jpg" alt="This image is intentionally missing" width="300">
+
+    <h2>Observation</h2>
+    <p>The alt attribute describes images for screen readers.</p>
+    <p>If an image fails to load, the browser can display its alternative text.</p>
 
 </body>
 </html>
